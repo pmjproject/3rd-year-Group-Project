@@ -1,0 +1,148 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.box1{
+    float: left;
+    width: 330px;
+    height: 450px;
+    margin:20px;
+    margin-top: 50px;
+}
+
+.box2{
+    float: left;
+    width: 330px;
+    height: 450px;
+    margin:20px;
+    margin-left: 37px;
+    margin-top: 50px;
+}
+
+.box3{
+    float: right;
+    width: 330px;
+    height: 450px;
+    margin:20px;
+    margin-top: 50px;
+}
+
+.box4{
+    float: left;
+    width: 330px;
+    height: 450px;
+    margin:20px;
+    margin-left: 180px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.box1 h4{
+    text-align: center;
+    color:#568e8f;
+}
+
+.box2 h4{
+    text-align: center;
+    color: #568e8f;
+}
+
+.box3 h4{
+    text-align: center;
+    color: #568e8f;
+}
+
+.box4 h4{
+    text-align: center;
+    color: #568e8f;
+}
+
+.box5 h4{
+    text-align: center;
+    color: #568e8f;
+}
+
+.box1 img{
+    margin-top: 30px;
+    width: 330px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.box2 img{
+    margin-top: 30px;
+    width: 330px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.box3 img{
+    margin-top: 30px;
+    width: 330px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.box4 img{
+    margin-top: 30px;
+    width: 330px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+
+.box1 button{
+    float: right;
+    background-color: #75c5cf;
+    color:aliceblue;
+    height: 40px;
+    margin-top: 40px;
+    margin-right: 90px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.box2 button{
+    float: right;
+    background-color: #75c5cf;
+    color:aliceblue;
+    height: 40px;
+    margin-top: 40px;
+    margin-right: 90px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.box3 button{
+    float: right;
+    background-color: #75c5cf;
+    color:aliceblue;
+    height: 40px;
+    margin-top: 40px;
+    margin-right: 90px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.box4 button{
+    float: right;
+    background-color:#75c5cf;
+    color:aliceblue;
+    height: 40px;
+    margin-top: 40px;
+    margin-right: 90px;
+    width: 150px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+
+
